@@ -1,0 +1,15 @@
+* {
+margin:0;
+border:0;
+}
+
+.col {
+    background-color: firebrick;
+    height:35px;
+    flex:1;
+    margin:10px;
+}
+
+.row {
+    display:flex;
+}
